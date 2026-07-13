@@ -20,7 +20,7 @@ Cada paleta en este kit ha sido curada siguiendo una lógica funcional de 5 nive
 - **[Relleno]**: Estados inactivos o selección en gráficos.
 
 *La primera version incluye 16 paletas temáticas inspiradas en la identidad, geografía y cultura chilena.*
-*El reporsitorio sera actualizado con nuevas paletas, udf, de manera semanal para generar contenido para su uso.*
+*El repositorio sera actualizado con nuevas paletas, udf y herramientas de manera semanal para generar contenido para su uso.*
 
 ## 📂 Estructura del Repositorio
 ```text
