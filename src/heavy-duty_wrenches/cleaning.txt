@@ -1,0 +1,15 @@
+let
+    // Reemplaza "Origen" por el nombre de tu tabla previa
+    Origen = TuTablaPrevia,
+    
+    // 1. Limpieza de espacios en todas las columnas de texto
+    LimpiarEspacios = Table.TransformColumns(Origen, 
+        List.Transform(Table.ColumnNames(Origen), each {_, Text.Trim})),
+    
+    // 2. Quitar duplicados de toda la tabla (vital para lo que te pasó ayer)
+    SinDuplicados = Table.Distinct(LimpiarEspacios),
+    
+    // 3. (Opcional) Quitar filas donde todos los valores sean nulos
+    SinNulos = Table.RemoveRowsWithErrors(SinDuplicados)
+in
+    SinNulos

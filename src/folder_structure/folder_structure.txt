@@ -1,0 +1,10 @@
+## 📂 principal/
+├── 1.📂 data/
+│   ├──📥 raw/   
+│   └──⚙️ processed/
+├── 2.🧪 notebooks/             
+├── 3.📊 reports                
+├── 4.🛠️ scripts
+├── 5.📝 docs                    
+├── 6.🖥️ dashboards          
+└── 📄 README.md          

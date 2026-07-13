@@ -1,0 +1,19 @@
+# Archivos de sistema de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales de Office (Excel, Word)
+~$*
+.DS_Store
+
+# Carpetas de entorno o temporales (por si luego usas Python/R)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rproj.user/
+.Rhistory
+.RData
+
+# Carpetas ocultas de Git (ya se ignoran, pero por seguridad)
+.git/

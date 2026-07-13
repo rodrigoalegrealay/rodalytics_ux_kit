@@ -1,0 +1,24 @@
+{
+  "rodalytics_ux_kit": {
+    "version": "1.0.0",
+    "theme": "Chilean Colors",
+    "palettes": {
+      "pacific_ocean": ["#0F172A", "#FFFFFF", "#3B82F6", "#153B99", "#D4E1FF"],
+      "blooming_desert": ["#F0CA57", "#FCF8EA", "#FC58D8", "#CC2CA8", "#FFE5F9"],
+      "southern_forest": ["#065F46", "#FFF8E7", "#A7F3D0", "#48E099", "#E3FFF2"],
+      "copihue": ["#7F1D1D", "#FFFDF7", "#F3D5D8", "#E88B94", "#FFF0F2"],
+      "atacama": ["#0F766E", "#F5E6CA", "#FF7F50", "#CF3700", "#FAE9E3"],
+      "valey_lavender": ["#6D28D9", "#FAF7FF", "#C4B5FD", "#361E8C", "#F2E8FF"],
+      "land_of_gold": ["#C2410C", "#FFF7E6", "#EAB308", "#A37C06", "#FAE3A0"],
+      "chilean_copper": ["#A93D17", "#FFEFE5", "#E8A87C", "#D16319", "#FFDCC4"],
+      "arica_olive_tree": ["#52700C", "#F9FFED", "#3B82F6", "#84C208", "#D4E1FF"],
+      "pica_lime": ["#1F2937", "#F3F4F6", "#A3E635", "#6BB300", "#EDFCCF"],
+      "mapuche_blood": ["#B53333", "#E3FCFF", "#27E4FB", "#E6A500", "#FFF2C2"],
+      "coho_salmon": ["#6D0006", "#FFF0F2", "#B2443A", "#FA8072", "#FA8072"],
+      "rainbow_trout": ["#302300", "#F5E6CA", "#E192CB", "#A2A258", "#E0E0B1"],
+      "arica_hummingbird": ["#373028", "#FAFAF0", "#662D74", "#361E8C", "#F2E8FF"],
+      "andean_condor": ["#0F172A", "#FCFCFA", "#D42570", "#962634", "#FAC3CA"],
+      "towers_of_paine": ["#23334D", "#F2F7FF", "#70B7EB", "#45A3AB", "#BEF5FA"]
+    }
+  }
+}

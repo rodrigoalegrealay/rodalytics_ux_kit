@@ -1,0 +1,10 @@
+// Función configurada específicamente para el contexto chileno
+FUNCTION Calendar_CL_ES = () => 
+    SmartCalendarUDF(
+        DATE(2020, 1, 1),   // Fecha inicio
+        DATE(2030, 12, 31), // Fecha fin
+        1,                  // Mes inicio año fiscal (Enero)
+        "CL",               // País Chile
+        TRUE(),             // Incluir festivos
+        "ES"                // Idioma Español
+    )
